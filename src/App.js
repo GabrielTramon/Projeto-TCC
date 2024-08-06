@@ -1,6 +1,5 @@
 import logo from "./img/logo.png";
 import "./App.css";
-import Carrinho ""
 
 function App() {
   return (
