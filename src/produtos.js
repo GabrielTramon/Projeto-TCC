@@ -15,7 +15,7 @@ function App() {
             <a href="">HOME</a>
             <a href="">PRODUTOS</a>
             <a href="">BANHO E TOSA</a>
-            <a href="">OUTROS</a>
+            <a href="">OUTRO</a>
           </nav>
         </div>
         <div className="Carrinho">
